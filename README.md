@@ -1,4 +1,4 @@
-# 🏅 Olympics Data Explorer – Phase 1: Data Cleaning
+#  Olympics Data Explorer 
 
 Welcome to the **Olympics Data Explorer**! This project is dedicated to analyzing historical Olympic Games data.  
 **Phase 1** focuses on **cleaning and preparing** the dataset for meaningful analysis and visualization.
@@ -8,7 +8,7 @@ Welcome to the **Olympics Data Explorer**! This project is dedicated to analyzin
 
 
 
-## 📊 Dataset Used
+##  Dataset Used
 
 - **Name**: `athlete_events.csv`
 - **Source**: [Kaggle – Olympic History Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
