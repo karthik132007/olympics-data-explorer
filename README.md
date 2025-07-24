@@ -16,7 +16,7 @@ Welcome to the **Olympics Data Explorer**! This project is dedicated to analyzin
 
 ---
 
-## 🧹 Phase 1 Goals – Data Cleaning
+##  Phase 1 Goals – Data Cleaning
 
 In this phase, the following preprocessing steps were performed in `cleaning.ipynb`:
 
@@ -27,9 +27,8 @@ In this phase, the following preprocessing steps were performed in `cleaning.ipy
 - ✅ Added a new feature `is_medalist` to track medal winners  
 - ✅ Ensured dataset consistency for future analysis  
 
----
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Python**
 - **Pandas** for data manipulation
